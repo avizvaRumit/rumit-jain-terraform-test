@@ -8,4 +8,6 @@ variable "subnet-cidr-b" {}
 
 variable "subnet-cidr-c" {}
 
+variable "subnet-cidr-d" {}
 
+variable "keyname" {}
